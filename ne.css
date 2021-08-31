@@ -7,7 +7,11 @@
   font-family: Arial, Helvetica, sans-serif;
   filter: blur(4px);
 }
-
+hr.nr {
+  display: block;
+  border: 0.5px solid black;
+  padding: 0;
+}
 .title2 {
   min-height: 750px;
   justify-content: center;

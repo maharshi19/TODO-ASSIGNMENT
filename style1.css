@@ -7,6 +7,11 @@
   filter: blur(4px);
  }
 
+ hr.nr {
+  display: block;
+  border: 0.5px solid black;
+  padding: 0;
+}
 .page2 {
   margin: 16px;
   display: flex;
