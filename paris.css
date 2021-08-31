@@ -1,0 +1,103 @@
+.page1 {
+    justify-content: center;
+    margin-top: 5%;
+    margin-bottom: 10%;
+    margin-left: 20%;
+    margin-right: 20%;
+   }
+  
+  .page2 {
+    margin: 16px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 48px;
+    font-family: sans-serif;  
+
+  }
+  
+  .new2{
+  
+    font-size: 50px;
+    width: 100%; 
+    text-align: center; 
+    border-bottom: 1px solid black; 
+    line-height: 2px;
+    margin: 10px 0 20px; 
+
+  }
+  h1 span { 
+    background-color: white; 
+    padding:0 10px; 
+}
+  .button1 {
+    margin: 16px 0px 32px 0px;
+    font-size: 24px;
+    font-weight: bold;
+    color:gray;
+    text-align: center;
+  }
+  .new{
+    color: orangered;
+  }
+  
+  .back-button-icon {
+    color: orangered;
+    margin-right: 5px;
+  }
+  
+  .card1 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  .card2 {
+    border: 1px solid orangered;
+    border-radius: 6px;
+    min-width: 350px;
+    height: 300px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.15);
+    text-align: center;
+    margin-bottom: 1em;
+    position: relative;
+  }
+  .card3 {
+    margin-top: 24px;
+    font-weight: 600;
+    font-size: large;
+    color: orangered;
+    margin-left: 25%;
+    text-align: left;
+  }
+  
+  .card4 {
+    margin-top: 32px;
+    color:orangered;
+    font-weight: bolder;
+    text-decoration: line-through;
+    text-decoration-thickness: 3px;
+    margin-left: 25%;
+    text-align: left;
+  }
+  
+  .card5 {
+    display: flex;
+    margin-top: 16px;
+    color: black;
+    margin-left: 18%;
+    font-weight: bolder;
+  }
+  
+  .card6 {
+    margin-right: 8px;
+  }
+  
+  .card7 {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin: 16px;
+    color: orangered;
+  }
